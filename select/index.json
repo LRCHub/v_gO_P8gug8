@@ -1,0 +1,160 @@
+{
+  "version": 1,
+  "base_track": "Queencard",
+  "base_artist": "i-dle",
+  "createdAt": "2025-12-09T08:55:15.396744Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Queencard",
+      "artist": "(G)I-DLE",
+      "has_synced": true,
+      "path": "select/01_Queencard_(G)I-DLE.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Queencard (퀸카 (Queencard))",
+      "artist": "(G)I-DLE",
+      "has_synced": true,
+      "path": "select/02_Queencard_(퀸카_(Queencard))_(G)I-DLE.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Queencard",
+      "artist": "(G)I‐DLE",
+      "has_synced": true,
+      "path": "select/03_Queencard_(G)I‐DLE.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Queencard",
+      "artist": "(G)I-DLE",
+      "has_synced": true,
+      "path": "select/04_Queencard_(G)I-DLE.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Queencard",
+      "artist": "(G)I-DLE",
+      "has_synced": true,
+      "path": "select/05_Queencard_(G)I-DLE.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Queencard",
+      "artist": "(G)I-DLE",
+      "has_synced": true,
+      "path": "select/06_Queencard_(G)I-DLE.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Queencard (퀸카 (Queencard))",
+      "artist": "(G)I-DLE",
+      "has_synced": true,
+      "path": "select/07_Queencard_(퀸카_(Queencard))_(G)I-DLE.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Queencard",
+      "artist": "(G)I-DLE",
+      "has_synced": true,
+      "path": "select/08_Queencard_(G)I-DLE.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "퀸카 (Queencard)",
+      "artist": "(G)I-DLE",
+      "has_synced": true,
+      "path": "select/09_퀸카_(Queencard)_(G)I-DLE.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Queencard",
+      "artist": "(G)I-DLE",
+      "has_synced": true,
+      "path": "select/10_Queencard_(G)I-DLE.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Queencard",
+      "artist": "(G)I-DLE",
+      "has_synced": true,
+      "path": "select/11_Queencard_(G)I-DLE.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "queencard",
+      "artist": "idle",
+      "has_synced": true,
+      "path": "select/12_queencard_idle.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Queencard",
+      "artist": "(G)I-DLE",
+      "has_synced": true,
+      "path": "select/13_Queencard_(G)I-DLE.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Queencard (퀸카 (Queencard))",
+      "artist": "(G)I-DLE",
+      "has_synced": true,
+      "path": "select/14_Queencard_(퀸카_(Queencard))_(G)I-DLE.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Queencard",
+      "artist": "(G)I-DLE",
+      "has_synced": true,
+      "path": "select/15_Queencard_(G)I-DLE.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Queencard",
+      "artist": "(G)I-DLE",
+      "has_synced": true,
+      "path": "select/16_Queencard_(G)I-DLE.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Queencard (퀸카 (Queencard))",
+      "artist": "(G)I-DLE",
+      "has_synced": true,
+      "path": "select/17_Queencard_(퀸카_(Queencard))_(G)I-DLE.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Queencard (퀸카 (Queencard))",
+      "artist": "(G)I-DLE - Topic",
+      "has_synced": true,
+      "path": "select/18_Queencard_(퀸카_(Queencard))_(G)I-DLE_-_Topic.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Queencard (Japanese ver.)",
+      "artist": "i-dle",
+      "has_synced": false,
+      "path": "select/pl_01_Queencard_(Japanese_ver.)_i-dle.txt"
+    }
+  ]
+}
